@@ -65,25 +65,7 @@ I work on **custom Odoo modules, ERP workflows, integrations, business logic, ac
 | 📊 Reporting       | Business reports & dashboards                       |
 | 🔗 Integrations    | Cross-module business process integration           |
 
-### 🏗️ ERP Development Approach
 
-```text
-Business Requirement
-        ↓
-Business Workflow
-        ↓
-Odoo Models & Business Logic
-        ↓
-Views / Security / Access Rights
-        ↓
-Module Integration
-        ↓
-Testing & Validation
-        ↓
-Deployment
-```
-
----
 
 ## 💻 Tech Stack
 
