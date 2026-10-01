@@ -285,21 +285,9 @@ class Abel:
     ]
 ```
 
----
 
-## 📈 My Development Philosophy
 
-> **Build software that solves real problems.**
 
-I believe good software is not only about writing code.
-
-It's about understanding:
-
-**Business → Requirements → Architecture → Development → Testing → Deployment → Continuous Improvement**
-
-That's especially important when developing ERP systems where software must match real-world business processes.
-
----
 
 ## 🌱 Currently Exploring
 
@@ -343,81 +331,7 @@ Continuous professional development in:
 * Docker & Kubernetes
 * Odoo / ERP Development
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/abelmulubrihan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelmulubrihan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/abelmulubrihan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelmulubrihan&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/abelmulubrihan">
-  <img src="https://streak-stats.demolab.com?user=abelmulubrihan&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abelmulubrihan&theme=tokyo-night&hide_border=false" alt="Abel's Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abelmulubrihan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 💡 Areas of Interest
-
-```text
-Odoo & ERP
-████████████████████████████████████████
-
-Full-Stack Development
-████████████████████████████████████████
-
-AI Applications
-████████████████████████████████████
-
-Business Automation
-████████████████████████████████████
-
-Software Architecture
-████████████████████████████████████
-
-Mobile Development
-██████████████████████████████
-```
-
----
-
-## 🤝 Let's Connect
 
 I'm interested in:
 
